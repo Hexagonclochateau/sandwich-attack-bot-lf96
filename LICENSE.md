@@ -1,4 +1,4 @@
-# 
+# updated Arbitrage Bot for sandwich attack bot | trailing-stop & rug-pull-detection is the best sandwich attack bot, featuring trailing-stop and rug-pull-detection. Fast, smart,
 
 
 
